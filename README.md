@@ -18,21 +18,21 @@
 
 #### Languages
 
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
-[<img align="left" alt="R" width="26px" src="https://i7.pngguru.com/preview/627/163/660/programming-language-data-analysis-computer-programming-r.jpg" />][r]
-[<img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />][go]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][personalcv]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][personalcv]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][personalcv]
+[<img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
+[<img align="left" alt="R" width="36px" src="https://i7.pngguru.com/preview/627/163/660/programming-language-data-analysis-computer-programming-r.jpg" />][r]
+[<img align="left" alt="Go" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />][go]
+[<img align="left" alt="SQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
+[<img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+[<img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][personalcv]
+[<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][personalcv]
+[<img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][personalcv]
 <br />
 
 #### Tools
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][personalcv]
-[<img align="left" alt="Amazon Web Services" width="26px" src="https://toppng.com/uploads/preview/aws-logo-amazon-web-services-ico-11562880403an9a3aaryc.png" />][personalcv]
-[<img align="left" alt="Google Cloud Platform" width="26px" src="https://www.clipartmax.com/png/middle/87-879005_en-savoir-plus-google-cloud-logo-png.png" />][personalcv]
+[<img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][personalcv]
+[<img align="left" alt="Amazon Web Services" width="36px" src="https://toppng.com/uploads/preview/aws-logo-amazon-web-services-ico-11562880403an9a3aaryc.png" />][personalcv]
+[<img align="left" alt="Google Cloud Platform" width="36px" src="https://www.clipartmax.com/png/middle/87-879005_en-savoir-plus-google-cloud-logo-png.png" />][personalcv]
 <br />
 <br />
 

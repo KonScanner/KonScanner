@@ -2,10 +2,10 @@
 
 ## I'm a musical, physicist/data scientist!
 
-- 🔭 I’m currently working in insurance as a data scientist!
-- 🌱 I’m currently learning everything I can get my hands on!!!
-- 👯 I’m looking to collaborate with others for future ML projects!
-- ⚡ Fun fact: I love to play guitar / bass and basketball.
+- 🔭 Currently working in insurance as a data scientist!
+- 🌱 Currently learning everything I can get my hands on!!!
+- 👯 Looking to collaborate with others for ML based projects!
+- ⚡ Hobbies: I love to play guitar / bass and basketball.
 
 ### Connect with me:
 

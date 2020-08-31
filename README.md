@@ -11,8 +11,9 @@
 
 [<img align="left" alt="kkombos.appspot.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="kostas-komp | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="kkomp | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
 
-<br />
+<br/>
 
 ### Languages and Tools:
 
@@ -42,6 +43,7 @@
 
 [website]: http://kkombos.appspot.com/
 [linkedin]: https://www.linkedin.com/in/kostas-komp/
+[spotify]: https://open.spotify.com/user/kkomp?si=C77et8aORP6V0SD7dkz9rw
 [python]: https://github.com/KonScanner?tab=repositories&q=&type=&language=python
 [r]: https://github.com/KonScanner?tab=repositories&q=&type=&language=r
 [go]: https://github.com/KonScanner?tab=repositories&q=&type=&language=go

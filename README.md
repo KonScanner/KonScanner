@@ -54,4 +54,4 @@
 [git]: https://github.com/KonScanner?tab=repositories
 [aws]: https://github.com/KonScanner/computer-vision-cloud9
 [personalcv]: https://github.com/KonScanner/PersonalCV
-[coffee]: paypal.me/QuantumMechanics
+[coffee]: https://www.paypal.com/paypalme/QuantumMechanics

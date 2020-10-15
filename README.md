@@ -36,7 +36,7 @@
 <br />
 <br />
 <br />
-[<img align="left" alt="Buy me a Coffee" width="256px" src="https://amynewnham.files.wordpress.com/2019/08/buymeacoffee_red402x-e1565370994491.png" />][coffee]
+[<img align="right" alt="Buy me a Coffee" width="256px" src="https://amynewnham.files.wordpress.com/2019/08/buymeacoffee_red402x-e1565370994491.png" />][coffee]
 <br />
 <br />
 

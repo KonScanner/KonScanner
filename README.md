@@ -20,7 +20,7 @@
 #### Languages
 
 [<img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
-[<img align="left" alt="R" width="36px" src="https://i7.pngguru.com/preview/627/163/660/programming-language-data-analysis-computer-programming-r.jpg" />][r]
+[<img align="left" alt="R" width="36px" src="https://banner2.cleanpng.com/20180925/qsr/kisspng-rstudio-data-analysis-logo-datacamp-inc-editorial-clipart-collection-68-5baa304f612545.8056768215378801433979.jpg" />][r]
 [<img align="left" alt="Go" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />][go]
 [<img align="left" alt="SQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
 [<img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][personalcv]

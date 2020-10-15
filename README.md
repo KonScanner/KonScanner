@@ -4,7 +4,7 @@
 
 - 🔭 Currently working in insurance as a data scientist!
 - 🌱 Currently learning everything I can get my hands on!!!
-- 👯 Looking to collaborate with others for ML based projects!
+- ⚒ Looking to collaborate with others for ML based projects!
 - ⚡ Hobbies: I love to play guitar / bass and basketball.
 
 ### Connect with me:

@@ -32,7 +32,7 @@
 [<img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][personalcv]
 [<img align="left" alt="Amazon Web Services" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" />][aws]
-[<img align="left" alt="Google Cloud Platform" width="36px" src="https://d2cnjxvu6pstmv.cloudfront.net/wp-content/uploads/2018/01/22135110/gcp_icon_v.png" />][personalcv]
+[<img align="left" alt="Google Cloud Platform" width="36px" src="https://d2cnjxvu6pstmv.cloudfront.net/wp-content/uploads/2018/01/22135110/gcp_icon_v.png" />][gcp]
 <br />
 <br />
 <br />
@@ -53,5 +53,6 @@
 [sql]: https://github.com/KonScanner?tab=repositories&q=&type=&language=plpgsql
 [git]: https://github.com/KonScanner?tab=repositories
 [aws]: https://github.com/KonScanner/computer-vision-cloud9
+[gcp]: https://pi-approxilator-288113.appspot.com/
 [personalcv]: https://konscanner.github.io/CV/
 [coffee]: https://www.paypal.com/paypalme/QuantumMechanics

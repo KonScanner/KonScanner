@@ -44,7 +44,7 @@
 
 <!-- <img align="left" alt="KonScanner's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KonScanner&show_icons=true&hide_border=true" /> -->
 
-[website]: http://kkombos.appspot.com/
+[website]: https://konscanner.github.io/CV/
 [linkedin]: https://www.linkedin.com/in/kostas-komp/
 [spotify]: https://open.spotify.com/user/kkomp?si=C77et8aORP6V0SD7dkz9rw
 [python]: https://github.com/KonScanner?tab=repositories&q=&type=&language=python
@@ -53,5 +53,5 @@
 [sql]: https://github.com/KonScanner?tab=repositories&q=&type=&language=plpgsql
 [git]: https://github.com/KonScanner?tab=repositories
 [aws]: https://github.com/KonScanner/computer-vision-cloud9
-[personalcv]: https://github.com/KonScanner/PersonalCV
+[personalcv]: https://konscanner.github.io/CV/
 [coffee]: https://www.paypal.com/paypalme/QuantumMechanics

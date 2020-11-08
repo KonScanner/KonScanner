@@ -8,7 +8,7 @@
 - ⚡ Hobbies include, playing guitar / bass and basketball.
 
 ### Connect with me:
-[<img align="left" alt="kkombos.appspot.com" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2018/240/iconmonstr-medium-5.png" />][medium]
+[<img align="left" alt="medium.com/@KonScanner" width="26px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2018/240/iconmonstr-medium-1.png" />][medium]
 [<img align="left" alt="kkombos.appspot.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="kostas-komp | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="kkomp | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]

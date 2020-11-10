@@ -57,4 +57,4 @@
 [personalcv]: https://konscanner.github.io/CV/
 [coffee]: https://www.paypal.com/paypalme/QuantumMechanics
 [medium]: https://medium.com/@KonScanner
-[cpp]: https://github.com/KonScanner/Cpp-learning-curve
+[cpp]: https://github.com/KonScanner/cpp-tetris-clone

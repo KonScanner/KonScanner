@@ -58,4 +58,4 @@
 [coffee]: https://www.paypal.com/paypalme/QuantumMechanics
 [medium]: https://medium.com/@KonScanner
 [js]: https://konscanner.github.io/js-animated-starship/
-[cpp]: https://github.com/KonScanner/vpnx/blob/main/vpnx.cpp
+[cpp]: https://github.com/KonScanner/vpnx/

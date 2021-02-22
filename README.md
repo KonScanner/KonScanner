@@ -1,6 +1,6 @@
 ### Hi there, I'm Konstantinos - aka [KonScanner][website] 👋
 
-## I'm a musical, physicist/data scientist!
+## My background is in Data Science, Physics and Music
 
 - 🔭 Currently working in insurance as a data scientist!
 - 🌱 Currently learning everything I can get my hands on!!!

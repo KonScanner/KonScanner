@@ -21,8 +21,8 @@
 
 [<img align="left" alt="Python" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />][python]
 [<img align="left" alt="C++" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />][cpp]
-[<img align="left" alt="R" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" />][r]
 [<img align="left" alt="Go" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" />][go]
+[<img align="left" alt="R" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" />][r]
 [<img align="left" alt="SQL" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />][sql]
 [<img align="left" alt="JavaScript" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" />][js]
 [<img align="left" alt="HTML5" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />][js]

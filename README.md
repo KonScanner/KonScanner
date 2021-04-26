@@ -49,7 +49,7 @@
 [spotify]: https://open.spotify.com/user/kkomp?si=C77et8aORP6V0SD7dkz9rw
 [python]: https://github.com/KonScanner?tab=repositories&q=&type=&language=python
 [r]: https://github.com/KonScanner?tab=repositories&q=&type=&language=r
-[go]: https://github.com/KonScanner?tab=repositories&q=&type=&language=go
+[go]: https://github.com/KonScanner/CookBook/tree/master/Go
 [sql]: https://github.com/KonScanner?tab=repositories&q=&type=&language=plpgsql
 [git]: https://github.com/KonScanner?tab=repositories
 [aws]: https://github.com/KonScanner/computer-vision-cloud9

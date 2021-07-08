@@ -8,11 +8,12 @@
 - ⚡ Hobbies include, playing guitar / bass and basketball.
 
 ### Connect with me:
-[<img align="left" alt="medium.com/@KonScanner" width="24px" src="https://entrepreneurship.ieee.org/wp-content/uploads/2020/06/Medium-Logo.png" />][medium]
+
 [<img align="left" alt="https://konscanner.github.io/CV/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="kostas-komp | LinkedIn" width="22px" src="https://www.pngkit.com/png/full/5-59543_snapchat-logo-furthermore-facebook-logo-silver-likewise-linkedin.png" />][linkedin]
+[<img align="left" alt="https://www.youtube.com/user/KOmBos2011/videos" width="22px" src="https://logos-world.net/wp-content/uploads/2020/04/YouTube-Emblem.png" />][youtube]
 [<img align="left" alt="kkomp | Spotify" width="22px" src="https://www.freepnglogos.com/uploads/spotify-logo-png/file-spotify-logo-png-4.png" />][spotify]
-
+[<img align="left" alt="medium.com/@KonScanner" width="24px" src="https://entrepreneurship.ieee.org/wp-content/uploads/2020/06/Medium-Logo.png" />][medium]
 <br/>
 
 ### Languages and Tools:
@@ -59,3 +60,4 @@
 [medium]: https://medium.com/@KonScanner
 [js]: https://konscanner.github.io/js-animated-starship/
 [cpp]: https://github.com/KonScanner/vpnx/
+[youtube]: https://www.youtube.com/user/KOmBos2011/videos

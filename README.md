@@ -17,7 +17,7 @@
 <!--[<img align="left" alt="medium.com/@KonScanner" width="24px" src="https://entrepreneurship.ieee.org/wp-content/uploads/2020/06/Medium-Logo.png" />][medium]-->
 <br/>
 
-### Languages and Tools:
+### Languages and Tools (liked to projects):
 
 #### Languages
 

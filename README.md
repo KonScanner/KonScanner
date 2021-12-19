@@ -17,7 +17,7 @@
 <br/>
 <br/>
 
-[<img align="center" alt="Buy me a Coffee" width="15%" src="https://amynewnham.files.wordpress.com/2019/08/buymeacoffee_red402x-e1565370994491.png" />][coffee]
+[<img align="center" alt="Buy me a Coffee" width="20%" src="https://amynewnham.files.wordpress.com/2019/08/buymeacoffee_red402x-e1565370994491.png" />][coffee]
 <br />
 <br />
 

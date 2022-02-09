@@ -2,8 +2,7 @@
 
 ## My background is in Data Science, Physics and Music
 
-- 🔭 Currently working in insurance as a data scientist!
-- 🌱 Currently learning everything I can get my hands on!!!
+- 🌱 Learning everything I can get my hands on!!!
 - ⚒ Looking to collaborate with others for ML based projects!
 - ⚡ Hobbies include, playing guitar / bass and basketball.
 

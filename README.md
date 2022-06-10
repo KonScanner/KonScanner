@@ -9,10 +9,10 @@
 ### Connect with me:
 
 [<img align="left" alt="https://konscanner.github.io/CV/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="flipsidecrypto.xyz/Konstantinos/3659" width="24px" src="https://avatars.githubusercontent.com/u/32752226?s=280&v=4" />][flipside]
 [<img align="left" alt="kostas-komp | LinkedIn" width="22px" src="https://www.pngkit.com/png/full/5-59543_snapchat-logo-furthermore-facebook-logo-silver-likewise-linkedin.png" />][linkedin]
 <!-- [<img align="left" alt="KonScanner | Kaggle" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" />][kaggle] -->
 [<img align="left" alt="kkomp | Spotify" width="22px" src="https://www.freepnglogos.com/uploads/spotify-logo-png/file-spotify-logo-png-4.png" />][spotify]
-<!--[<img align="left" alt="medium.com/@KonScanner" width="24px" src="https://entrepreneurship.ieee.org/wp-content/uploads/2020/06/Medium-Logo.png" />][medium]-->
 <br/>
 <br/>
 
@@ -30,3 +30,4 @@
 [coffee]: https://www.paypal.com/paypalme/QuantumMechanics
 [medium]: https://medium.com/@KonScanner
 [kaggle]: https://www.kaggle.com/scannerio
+[flipside]: https://flipsidecrypto.xyz/Konstantinos/3659

@@ -3,8 +3,8 @@
 ## My background is in Data Science, Physics and Music
 
 - 🌱 Learning everything I can get my hands on!!!
-- ⚒ Looking to collaborate with others for ML based projects!
-- ⚡ Hobbies include, playing guitar / bass and basketball.
+- ⚒ Looking to collaborate with others on Data Science/Analytics/ML based projects!
+- ⚡ Hobbies include, playing guitar, bass and basketball.
 
 ### Connect with me:
 

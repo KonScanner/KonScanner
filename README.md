@@ -20,6 +20,8 @@
 <br />
 <br />
 
+EVM addres for donations: `0xCf759ff40f8d7C73cfdE1ec174D190F8E935B824`
+
 ---
 
 <!-- <img align="left" alt="KonScanner's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KonScanner&show_icons=true&hide_border=true" /> -->

@@ -9,7 +9,7 @@
 ### Connect with me:
 
 [<img align="left" alt="https://konscanner.github.io/CV/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="https://kowalski-defi.notion.site/Decoded-Tables-for-Novices-Using-Logs-71565bae666e4be3b95606a163f4594d" width="22px" src="https://seeklogo.com/images/N/notion-app-logo-009B1538E8-seeklogo.com.png" />][notion]
+[<img align="left" alt="https://kowalski-defi.notion.site/Decoded-Tables-for-Novices-Using-Logs-71565bae666e4be3b95606a163f4594d" width="22px" src="https://github.com/user-attachments/assets/90c9b024-0121-49c3-be8c-8028b9f561c2" />][notion]
 [<img align="left" alt="https://flipsidecrypto.xyz/Konstantinos" width="24px" src="https://avatars.githubusercontent.com/u/32752226?s=280&v=4" />][flipside]
 [<img align="left" alt="kostas-komp | LinkedIn" width="22px" src="https://www.pngkit.com/png/full/5-59543_snapchat-logo-furthermore-facebook-logo-silver-likewise-linkedin.png" />][linkedin]
 [<img align="left" alt="KowalskiDefi | Youtube" width="24px" src="https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png" />][youtube]

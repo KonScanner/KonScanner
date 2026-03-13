@@ -52,12 +52,12 @@ Data scientist with a background in physics and music, specializing in blockchai
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
 ![Presto](https://img.shields.io/badge/Presto%2FAthena-512BD4?style=flat-square)
 
-**Analytics Engineer** — Core EVM data infrastructure and real-time ingestion systems.
+**Senior Data Engineer** — Core EVM data infrastructure and real-time ingestion systems.
 
 - Improved EVM decoded table rates for core ingested tables and built high-quality abstraction layers
 - Engineered data pipelines writing to a Presto/Athena/SparkSQL-compatible Delta Lake format as well as PostgreSQL, using the AWS stack (Athena, ECR)
-- Contributed to the real-time **Ingestor** and real-time **Balances** projects
-- Built a complexity-based query routing heuristic that transparently dispatched user queries between Presto/Athena and PostgreSQL, abstracting engine selection from end users
+- Built real-time **Ingestor** and real-time **Balances** on PGSQL
+- Worked on optimizing complexity-based query routing heuristic that transparently dispatched user queries between Presto/Athena and PostgreSQL, abstracting engine selection from end users
 - Used dbt for transformation workflows and MySQL for user management
 
 ---

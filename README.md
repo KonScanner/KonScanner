@@ -1,12 +1,6 @@
-# Konstantinos Komp | KonScanner
+# Konstantinos | KonScanner
 
-[![Website](https://img.shields.io/badge/Portfolio-konscanner.github.io-blue?style=for-the-badge&logo=github)](https://konscanner.github.io/CV/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kostas--komp-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kostas-komp/)
-[![YouTube](https://img.shields.io/badge/YouTube-KowalskiDefi-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@KowalskiDefi)
-[![Flipside](https://img.shields.io/badge/Flipside-Konstantinos-teal?style=for-the-badge)](https://flipsidecrypto.xyz/Konstantinos)
-[![Notion](https://img.shields.io/badge/Notion-Decoded_Tables-black?style=for-the-badge&logo=notion)](https://kowalski-defi.notion.site/Decoded-Tables-for-Novices-Using-Logs-71565bae666e4be3b95606a163f4594d)
-
-## 💻 Software Engineer & Data Specialist
+## 💻 Software Engineer (Backend)
 
 > Data scientist and software engineer with expertise in Web3, blockchain analytics, and database optimization. Previously working on ML/AI from tabular physics data to risk scoring to image processing.
 
@@ -63,19 +57,3 @@ When I'm not coding, you'll find me:
 - Playing guitar and bass
 - On the basketball court
 - Exploring new data science concepts
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kostas-komp/)
-[![Spotify](https://img.shields.io/badge/Spotify-Follow-1DB954?style=for-the-badge&logo=spotify)](https://open.spotify.com/user/kkomp?si=C77et8aORP6V0SD7dkz9rw)
-
-
-[website]: https://konscanner.github.io/CV/
-[linkedin]: https://www.linkedin.com/in/kostas-komp/
-[spotify]: https://open.spotify.com/user/kkomp?si=C77et8aORP6V0SD7dkz9rw
-[coffee]: https://www.paypal.com/paypalme/QuantumMechanics
-[medium]: https://medium.com/@KonScanner
-[kaggle]: https://www.kaggle.com/scannerio
-[flipside]: https://flipsidecrypto.xyz/Konstantinos
-[notion]: https://kowalski-defi.notion.site/Decoded-Tables-for-Novices-Using-Logs-71565bae666e4be3b95606a163f4594d
-[youtube]: https://www.youtube.com/@KowalskiDefi

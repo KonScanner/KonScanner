@@ -28,11 +28,39 @@
 
 Data scientist with a background in physics and music, specializing in blockchain analytics and database optimization. Skilled in developing robust data pipelines, building analytical models, and extracting actionable insights from complex datasets. Passionate about leveraging data science to solve real-world problems.
 
-## 📊 Featured Projects
+## 🏢 Prior Contributions
 
-- **Web3 Data Analytics Platform** - Built comprehensive analytics tools for blockchain data using Python, PostgreSQL, and web3.py.
-- **Database Optimization Framework** - Developed a custom framework that improved query performance by 60%.
-- **Decoded Tables for Novices** - Created educational resources explaining blockchain data structures.
+### [Polygon Technology](https://polygon.technology/about)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker)
+
+**Data Lead** — Backend, pipelines, and analytics engineering across Polygon's data org.
+
+- Led data pipelines and analytics infrastructure powering internal BI (Looker + dbt)
+- Built and maintained APIs delivering data to BD & Marketing teams and external partners including **Starbucks** and **Reddit**
+- Authored research reports and data models to support product and growth decisions
+
+---
+
+### [ZettaBlock](https://zettablock.com/)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
+![Presto](https://img.shields.io/badge/Presto%2FAthena-512BD4?style=flat-square)
+
+**Analytics Engineer** — Core EVM data infrastructure and real-time ingestion systems.
+
+- Improved EVM decoded table rates for core ingested tables and built high-quality abstraction layers
+- Engineered data pipelines writing to a Presto/Athena/SparkSQL-compatible Delta Lake format as well as PostgreSQL, using the AWS stack (Athena, ECR)
+- Contributed to the real-time **Ingestor** and real-time **Balances** projects
+- Built a complexity-based query routing heuristic that transparently dispatched user queries between Presto/Athena and PostgreSQL, abstracting engine selection from end users
+- Used dbt for transformation workflows and MySQL for user management
+
+---
 
 ## 🎓 Background
 

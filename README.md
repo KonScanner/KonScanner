@@ -69,11 +69,6 @@ When I'm not coding, you'll find me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kostas-komp/)
 [![Spotify](https://img.shields.io/badge/Spotify-Follow-1DB954?style=for-the-badge&logo=spotify)](https://open.spotify.com/user/kkomp?si=C77et8aORP6V0SD7dkz9rw)
 
-<div align="center">
-  <a href="https://www.paypal.com/paypalme/QuantumMechanics">
-    <img src="https://img.shields.io/badge/Support_My_Work-PayPal-00457C?style=for-the-badge&logo=paypal" alt="PayPal" />
-  </a>
-</div>
 
 [website]: https://konscanner.github.io/CV/
 [linkedin]: https://www.linkedin.com/in/kostas-komp/

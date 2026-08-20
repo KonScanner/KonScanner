@@ -1,4 +1,4 @@
-<h1 align="center">Konstantinos Kompogiannopoulos</h1>
+<h1 align="center">Konstantinos</h1>
 <p align="center">
   <b>Backend Software Engineer · Data Engineer · Data Scientist</b><br/>
   Physics first, then machine learning, then blockchain data.<br/>
@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kostas-komp/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://kowalski-defi.notion.site/Decoded-Tables-for-Novices-Using-Logs-71565bae666e4be3b95606a163f4594d"><img alt="Notion" src="https://img.shields.io/badge/Notion-Decoding%20logs-000000?style=flat-square&logo=notion&logoColor=white"></a>
+  <a href="https://kowalski-defi.notion.site/Blockchain-Data-Analytics-ec45d5b9e1514cdd94f7f701c3f3e9a4"><img alt="Notion" src="https://img.shields.io/badge/Notion-Blockchain%20Data%20Analytics-000000?style=flat-square&logo=notion&logoColor=white"></a>
 </p>
 
 I build blockchain data pipelines, real time Postgres systems, and the products that sit on top of them.
@@ -106,7 +106,7 @@ repositories, so it is described in general terms without links.
 | [Cashboard](https://github.com/KonScanner/Cashboard) | Dashboard for monitoring cryptocurrencies. |
 | [synthr-farming](https://github.com/KonScanner/synthr-farming) | Synthr action farming scripts. |
 | [Onchain_Analysis](https://github.com/KonScanner/Onchain_Analysis) | On chain analysis toolkit. Fork of [readysetcryptocodes/Onchain_Analysis](https://github.com/readysetcryptocodes/Onchain_Analysis). |
-| [Decoding logs, a Notion write up](https://kowalski-defi.notion.site/Decoded-Tables-for-Novices-Using-Logs-71565bae666e4be3b95606a163f4594d) | How to build decoded tables from raw logs. |
+| [Blockchain Data Analytics](https://kowalski-defi.notion.site/Blockchain-Data-Analytics-ec45d5b9e1514cdd94f7f701c3f3e9a4) | A Notion series I write. Case studies that run from exploratory analysis to decoding contract logic, including decoded tables from raw logs and a piece on smart contract mutability. |
 
 **Private repositories** hold Flipside reporting, Thorchain and staked Aave dashboards, ecosystem value modelling, growth and competitive metrics, and Terra SDK utilities.
 

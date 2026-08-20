@@ -6,7 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="https://konscanner.github.io/CV/"><img alt="CV" src="https://img.shields.io/badge/CV-konscanner.github.io-24292f?style=flat-square&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/kostas-komp/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="https://kowalski-defi.notion.site/Decoded-Tables-for-Novices-Using-Logs-71565bae666e4be3b95606a163f4594d"><img alt="Notion" src="https://img.shields.io/badge/Notion-Decoding%20logs-000000?style=flat-square&logo=notion&logoColor=white"></a>
 </p>

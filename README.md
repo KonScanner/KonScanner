@@ -17,26 +17,12 @@ I take an early stage idea from a proof of concept to a released `v1.0.0`.
 
 ## Path
 
-```mermaid
-%%{init: {'themeVariables': {
-  'cScale0':'#10263B','cScaleLabel0':'#FFFFFF',
-  'cScale1':'#EB0A1E','cScaleLabel1':'#FFFFFF',
-  'cScale2':'#EE4C14','cScaleLabel2':'#FFFFFF',
-  'cScale3':'#3A3A3A','cScaleLabel3':'#FFFFFF',
-  'cScale4':'#670DE5','cScaleLabel4':'#FFFFFF',
-  'cScale5':'#0400DD','cScaleLabel5':'#FFFFFF',
-  'cScale6':'#000000','cScaleLabel6':'#FFFFFF'
-}}}%%
-timeline
-    title From physics to blockchain data
-    2016 to 2020 : Physics BSc, Leicester and Nottingham : Data Science MSc, Surrey. Deep learning and reinforcement learning.
-    2020 to 2021 : TX Connected, acquired by Toyota. Junior Data Scientist : Vehicle telematics crash data. Liability and severity models. MLflow, Docker, AWS.
-    2021 to 2022 : LeasePlan, Data Scientist : Credit risk scoring models. ML text extraction from contracts.
-    2022 : Flipside Crypto, bounty hunter, part time : SQL analytics and dashboards across Terra, Thorchain, Maker, Aave.
-    2022 to 2023 : Polygon Labs, Data Lead : Metric standard, dbt, Spark, Airflow, Looker. Partner APIs.
-    2023 to 2025 : ZettaBlock, Senior Data Engineer : Real time EVM and Bitcoin pipelines. Postgres, Delta Lake, GraphQL.
-    2025 to May 2026 : Share.xyz : Social crypto app, end to end.
-```
+From physics to blockchain data.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/path-dark.svg">
+  <img alt="Career path: University 2016 to 2020, TX Connected 2020 to 2021, LeasePlan 2021 to 2022, Flipside Crypto 2022, Polygon Labs 2022 to 2023, ZettaBlock 2023 to 2025, Share.xyz 2025 to May 2026" src="assets/path-light.svg" width="100%">
+</picture>
 
 ## Experience
 

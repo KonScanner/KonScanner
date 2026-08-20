@@ -18,6 +18,15 @@ I take an early stage idea from a proof of concept to a released `v1.0.0`.
 ## Path
 
 ```mermaid
+%%{init: {'themeVariables': {
+  'cScale0':'#10263B','cScaleLabel0':'#FFFFFF',
+  'cScale1':'#EB0A1E','cScaleLabel1':'#FFFFFF',
+  'cScale2':'#EE4C14','cScaleLabel2':'#FFFFFF',
+  'cScale3':'#3A3A3A','cScaleLabel3':'#FFFFFF',
+  'cScale4':'#670DE5','cScaleLabel4':'#FFFFFF',
+  'cScale5':'#0400DD','cScaleLabel5':'#FFFFFF',
+  'cScale6':'#000000','cScaleLabel6':'#FFFFFF'
+}}}%%
 timeline
     title From physics to blockchain data
     2016 to 2020 : Physics BSc, Leicester and Nottingham : Data Science MSc, Surrey. Deep learning and reinforcement learning.
